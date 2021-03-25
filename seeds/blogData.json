@@ -1,14 +1,14 @@
 [
   {
-    "name": "Music Near Me",
-    "content": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "name": "I Love Bootstrap!",
+    "content": "I have always dreaded doing the CSS for my projects. I'm so glad that I found Bootstrap! It has made the styling process SOOOO much easier. If you're like me and struggle with CSS, you should give Bootstrap a shot too!"
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "content": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
+    "name": "I need some help with npm packages",
+    "content": "Can anyone clarify how to install an npm package? I'm new to node and some basic concepts are still unclear to me. I've already initialized the package.json. What is the next step?"
   },
   {
-    "name": "Roll 'Em Up",
-    "content": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
+    "name": "JavaScript Built-In Method of the Day",
+    "content": "Today's built-in method is charAt. Ever have trouble identifying a character in a string? Well charAt is the method for you! charAt is a method that returns the character from the specified index. The syntax is: string.charAt(index);"
   }
 ]
