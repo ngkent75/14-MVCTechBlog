@@ -1,3 +1,8 @@
+* {
+  background-color: black;
+  color: #1b89bc;
+}
+
 header, .blog:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
@@ -17,8 +22,3 @@ header, .blog:not(:last-child) {
   text-decoration: underline;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
-}
