@@ -18,7 +18,7 @@ router.get('/', async (req, res) => {
 
     // pass into template
     res.render('homepage', {
-      projects,
+      blogs,
       logged_in: req.session.logged_in
     });
   } catch (err) {
