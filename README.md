@@ -21,6 +21,8 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 To access the repo, go to https://github.com/ngkent75/14-MVCTechBlog
 
+To access on Heroku, go to https://rocky-mesa-92551.herokuapp.com/login
+
 
 1. Upon accessing the website, you will immediately see the homepage.
 
